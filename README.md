@@ -9,4 +9,7 @@ Optimizing Delivery Routes: Developing an algorithm that can optimize delivery r
 
 <p> Traffic and Weather can be taking into account through a webpage presentation (soon to be shown below) </p>
 
-<p>It's help the couriers visualize their option with the nessary details updating frequently </p>
+<p>It'll help the couriers visualize their option with the nessary details updating frequently </p>
+
+<h2> Tasks </h2>
+Webpage Design using HTML and CSS
